@@ -1,6 +1,5 @@
 # CPUs-Vs-GPUs-vs-TPUs-Vs-NPUs
 
-Assignment 2
 
 CPU (Central Processing Unit) CPU is the main component of a computer, often called the brain of the computer. It performs general tasks, processes instructions, controls other components and manages the overall operations of the computer.
 
